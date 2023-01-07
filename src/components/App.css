@@ -1,0 +1,55 @@
+#postBorder {
+    height: 700px;
+    width: 1000px;
+    align-content: center;
+    overflow: scroll;
+    margin: auto;
+  }
+  
+  label {
+    padding-top: 2%;
+    margin-right: 2%;
+    color: white;
+  }
+  #backToProfile {
+    margin-left: 80%;
+    margin-bottom: 2%;
+  }
+  
+  #deletePostButton {
+    margin-left: 80%;
+    margin-bottom: 2%;
+  }
+  
+  #messageForm {
+    margin-left: 2%;
+    width: 500px;
+    margin-top: 2%;
+  }
+  
+  #allButton {
+    margin-right: 1%;
+  }
+  
+  #newPostButton {
+    margin-top: 2%;
+  }
+  
+  
+  #logoutImage {
+    margin: auto;
+    height: 500px;
+    width: 700px;
+  }
+  
+  #logBackIn {
+    margin-left: 45%;
+  }
+  
+  #viewAsGuest {
+    margin-left: 2%;
+  }
+  
+  #loginToViewPost {
+    margin-left: 40%;
+  }
